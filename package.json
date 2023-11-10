@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "pouchdb": "^8.0.1",
+    "pouchdb-find": "^8.0.1"
+  }
+}
